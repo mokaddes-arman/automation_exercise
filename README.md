@@ -1,8 +1,8 @@
 # automation_exercise
-Task 1: Automate the given scenario. 
+Task: Automate the given scenario. 
 You can use any Tools, Framework, Language.Selenium/Cypress/Playwright preferable.  
 
-1. Launch browser(Chrome/Firefox)
+1. Launch browser(Chrome)
 2. Navigate to url 'http://automationexercise.com'
 3. Verify that home page is visible successfully
 4. Add products to cart
